@@ -1,0 +1,1 @@
+var stripe = Stripe('pk_live_EQVmsZ4rnubGqBL8Bkr3aYlG');
